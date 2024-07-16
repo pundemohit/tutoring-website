@@ -11,8 +11,8 @@ import Divider from '@mui/material/Divider';
 const Landing = () => {
     return (
         <>
-            <Container>
-                <Grid container spacing={2}>
+            <Container sx={{backgroundColor:'white'}}>
+                <Grid container spacing={2} >
                     <Grid item xs={6}>
                         <Box sx={{ padding: '5rem' }}>
                             <p style={{ color: '#f59300', fontWeight: 'bold' }}>100% SATISFACTION GUARANTEE</p>

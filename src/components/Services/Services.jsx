@@ -22,18 +22,18 @@ const Services = () => {
                         </Grid>
                         <Grid item xs={2.5} sx={{ boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.5)', margin: '1rem', padding: '1rem', borderRadius: '10px' }}>
                             <WatchLaterSharpIcon sx={{ color: 'white', backgroundColor: '#93ff26', padding: '0.5rem', borderRadius: '10px' }} />
-                            <h4 style={{ marginTop: '10px' }}>One-on-one Teaching</h4>
-                            <p style={{ marginTop: '-15px' }}>All of our special education experts have a degree in special education</p>
+                            <h4 style={{ marginTop: '10px' }}>24/7 Tutor Availiability</h4>
+                            <p style={{ marginTop: '-15px' }}>Our tutors are always available to respond as quick as possible for you</p>
                         </Grid>
                         <Grid item xs={2.5} sx={{ boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.5)', margin: '1rem', padding: '1rem', borderRadius: '10px' }}>
                             <InventorySharpIcon sx={{ color: 'white', backgroundColor: 'orange', padding: '0.5rem', borderRadius: '10px' }} />
-                            <h4 style={{ marginTop: '10px' }}>One-on-one Teaching</h4>
-                            <p style={{ marginTop: '-15px' }}>All of our special education experts have a degree in special education</p>
+                            <h4 style={{ marginTop: '10px' }}>Interactive Whiteboard</h4>
+                            <p style={{ marginTop: '-15px' }}>Our digital whiteboard equipped with audio and video chat features</p>
                         </Grid>
                         <Grid item xs={2.5} sx={{ boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.5)', margin: '1rem', padding: '1rem', borderRadius: '10px' }}>
                             <LocalAtmSharpIcon sx={{ color: 'white', backgroundColor: 'pink', padding: '0.5rem', borderRadius: '10px' }} />
-                            <h4 style={{ marginTop: '10px' }}>One-on-one Teaching</h4>
-                            <p style={{ marginTop: '-15px' }}>All of our special education experts have a degree in special education</p>
+                            <h4 style={{ marginTop: '10px' }}>Affordable Prices</h4>
+                            <p style={{ marginTop: '-15px' }}>Choose an expert tutor based on your budget and per hour</p>
                         </Grid>
                     </Grid>
                 </Container>
