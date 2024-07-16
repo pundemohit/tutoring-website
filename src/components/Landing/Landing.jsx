@@ -44,7 +44,7 @@ const Landing = () => {
                     </Grid>
                 </Grid>
             </Container>
-            <Box sx={{ backgroundColor: '#0066FF', marginTop: '4rem' }}>
+            <Box sx={{ backgroundColor: '#0066FF', marginTop: '4rem' ,padding:'1.5rem 0rem'}}>
                 <Container >
                     <Grid container spacing={1} sx={{ color: 'white' }}>
 
